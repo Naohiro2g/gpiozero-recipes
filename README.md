@@ -4,12 +4,12 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 
 ## List of recipes
 
-- [01-LED-blinky-01.py](./01-LED-blinky-01.py) [circuit](diagram/01-LED-blinky-01.pdf)
-- [02-hello-button-01.py](./02-hello-button-01.py) [circuit](diagram/02-hello-button-01.pdf)
-- [03-LED-button-01.py](./03-LED-button-01.py) [circuit](diagram/03-LED-button-01.pdf)
-- [04-PWM-LED-01.py](./04-PWM-LED-01.py) [circuit](diagram/04-PWM-LED-01.pdf)
-- [05-servo-01.py](./05-servo-01.py) [circuit](diagram/05-servo-01.pdf)
-- [06-light-sensor-01.py](./06-light-sensor-01.py) [circuit](diagram/06-light-sensor-01.pdf)
+- [01-LED-blinky-01.py](./01-LED-blinky-01.py)   [--> wiring](images/01-LED-blinky-01_bb.jpg)
+- [02-hello-button-01.py](./02-hello-button-01.py)   [--> wiring](images/02-hello-button-01_bb.jpg)  [--> circuit](images/02-hello-button-01_schem.jpg)
+- [03-LED-button-01.py](./03-LED-button-01.py)   [--> wiring](images/03-LED-button-01_bb.jpg)
+- [04-PWM-LED-01.py](./04-PWM-LED-01.py)   [--> wiring](images/04-PWM-LED-01_bb.jpg)
+- [05-servo-01.py](./05-servo-01.py)   [--> wiring](images/05-servo-01_bb.jpg)
+- [06-light-sensor-01.py](./06-light-sensor-01.py)   [--> wiring](images/06-light-sensor-01_bb.jpg)
 
 ## How to eat, or run the code
 
