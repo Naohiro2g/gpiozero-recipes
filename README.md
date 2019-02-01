@@ -5,7 +5,7 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 ## List of recipes
 
 - [01-LED-blinky-01.py](./01-LED-blinky-01.py)   [--> wiring](images/01-LED-blinky-01_bb.jpg)
-- [02-hello-button-01.py](./02-hello-button-01.py)   [--> wiring](images/02-hello-button-01_bb.jpg)  [--> circuit](images/02-hello-button-01_schem.jpg)
+- [02-hello-button-01.py](./02-hello-button-01.py)   [--> wiring<img src="images/02-hello-button-01_bb.jpg" alt="02-hello-button-01" title="02-hello-button-01"  height="200" align="top">](images/02-hello-button-01_bb.jpg)  [--> circuit](images/02-hello-button-01_schem.jpg)
 - [03-LED-button-01.py](./03-LED-button-01.py)   [--> wiring](images/03-LED-button-01_bb.jpg)
 - [04-PWM-LED-01.py](./04-PWM-LED-01.py)   [--> wiring](images/04-PWM-LED-01_bb.jpg)
 - [05-servo-01.py](./05-servo-01.py)   [--> wiring](images/05-servo-01_bb.jpg)
