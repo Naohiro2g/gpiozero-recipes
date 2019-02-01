@@ -4,12 +4,30 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 
 ## List of recipes
 
-- [01-LED-blinky-01.py](./01-LED-blinky-01.py)   [--> wiring](images/01-LED-blinky-01_bb.jpg)
-- [02-hello-button-01.py](./02-hello-button-01.py)   [--> wiring<img src="images/02-hello-button-01_bb.jpg" alt="02-hello-button-01" title="02-hello-button-01"  height="200" align="top">](images/02-hello-button-01_bb.jpg)  [--> circuit](images/02-hello-button-01_schem.jpg)
-- [03-LED-button-01.py](./03-LED-button-01.py)   [--> wiring](images/03-LED-button-01_bb.jpg)
-- [04-PWM-LED-01.py](./04-PWM-LED-01.py)   [--> wiring](images/04-PWM-LED-01_bb.jpg)
-- [05-servo-01.py](./05-servo-01.py)   [--> wiring](images/05-servo-01_bb.jpg)
-- [06-light-sensor-01.py](./06-light-sensor-01.py)   [--> wiring](images/06-light-sensor-01_bb.jpg)
+- [01-LED-blinky-01.py](./01-LED-blinky-01.py)
+[--> wiring <img src="images/01-LED-blinky-01_bb.jpg" alt="01-LED-blinky-01" title="01-LED-blinky-01" height="100" align="center">](images/01-LED-blinky-01_bb.jpg)
+[--> circuit](images/01-LED-blinky-01_schem.jpg)
+
+- [02-hello-button-01.py](./02-hello-button-01.py)
+[--> wiring <img src="images/02-hello-button-01_bb.jpg" alt="02-hello-button-01" title="02-hello-button-01" height="100" align="center">](images/02-hello-button-01_bb.jpg)
+[--> circuit](images/02-hello-button-01_schem.jpg)
+
+- [03-LED-button-01.py](./03-LED-button-01.py)
+[--> wiring <img src="images/03-LED-button-01_bb.jpg" alt="03-LED-button-01" title="03-LED-button-01" height="100" align="center">](images/03-LED-button-01_bb.jpg)
+[--> circuit](images/03-LED-button-01_schem.jpg)
+
+- [04-PWM-LED-01.py](./04-PWM-LED-01.py)
+[--> wiring <img src="images/04-PWM-LED-01_bb.jpg" alt="04-PWM-LED-01" title="04-PWM-LED-01" height="100" align="center">](images/04-PWM-LED-01_bb.jpg)
+[--> circuit](images/04-PWM-LED-01_schem.jpg)
+
+- [05-servo-01.py](./05-servo-01.py)
+[--> wiring <img src="images/05-servo-01_bb.jpg" alt="05-servo-01" title="05-servo-01" height="100" align="center">](images/05-servo-01_bb.jpg)
+[--> circuit](images/05-servo-01_schem.jpg)
+
+- [06-light-sensor-01.py](./06-light-sensor-01.py)
+[--> wiring <img src="images/06-light-sensor-01_bb.jpg" alt="06-light-sensor-01" title="06-light-sensor-01" height="100" align="center">](images/06-light-sensor-01_bb.jpg)
+[--> circuit](images/06-light-sensor-01_schem.jpg)
+
 
 ## How to eat, or run the code
 
