@@ -41,6 +41,6 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 $ cd Documents
 $ cd Python\ Projects
 $ git clone paste-the-URL-from-the-green-button-of-Clone-or-download
-$ cd gpio-recipes
+$ cd gpiozero-recipes
 $ python3 01-LED-blinky
 ```
