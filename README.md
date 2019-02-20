@@ -5,11 +5,12 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 ## List of recipes
 
 
-|Number|File Name|Description|Wiring|Circuit|
-|:---:|:---|:---|:---:|:---:|
-|1|[01-LED-blinky-01.py](./01-LED-blinky-01.py)|LED blinky.</br>LED blinky.|[<img src="images/01-LED-blinky-01_bb.png" alt="01-LED-blinky-01" title="01-LED-blinky-01" height="50" align="center">](images/01-LED-blinky-01_bb.png)|[-->](images/01-LED-blinky-01_schem.png)|
-|2|[02-hello-button-01.py](./02-hello-button-01.py)|Push the button to say hello.|[<img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)|[-->](images/02-hello-button-01_schem.png)|
-|Number|File Name|Description|Wiring|Circuit|
+|Number|File Name|Description|Wiring|Circuit|GPIO|
+|:---:|:---|:---|:---:|:---:|:---:|
+|1|[01-LED-blinky-01.py](./01-LED-blinky-01.py)|LED blinky.|[<img src="images/01-LED-blinky-01_bb.png" alt="01-LED-blinky-01" title="01-LED-blinky-01" height="50" align="center">](images/01-LED-blinky-01_bb.png)|[-->](images/01-LED-blinky-01_schem.png)|23|
+|2|[02-hello-button-01.py](./02-hello-button-01.py)|Push the button<br/> to say hello.|[<img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)|[-->](images/02-hello-button-01_schem.png)|24|
+|3|[03-LED-button-01.py](./03-LED-button-01.py)|Push the button<br/>to turn the LED on.|[<img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)|[-->](images/02-hello-button-01_schem.png)|23,24|
+|Number|File Name|Description|Wiring|Circuit|GPIO|
 
 
 
