@@ -9,22 +9,10 @@ Sample recipes of [gpiozero](https://gpiozero.readthedocs.io/en/stable/index.htm
 |:---:|:---|:---|:---:|:---:|:---:|
 |1|[01-LED-blinky-01.py](./01-LED-blinky-01.py)|LED blinky.|[<img src="images/01-LED-blinky-01_bb.png" alt="01-LED-blinky-01" title="01-LED-blinky-01" height="50" align="center">](images/01-LED-blinky-01_bb.png)|[-->](images/01-LED-blinky-01_schem.png)|23|
 |2|[02-hello-button-01.py](./02-hello-button-01.py)|Push the button<br/> to say hello.|[<img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)|[-->](images/02-hello-button-01_schem.png)|24|
-|3|[03-LED-button-01.py](./03-LED-button-01.py)|Push the button<br/>to turn the LED on.|[<img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)|[-->](images/02-hello-button-01_schem.png)|23,24|
+|3|[03-LED-button-01.py](./03-LED-button-01.py)|Push the button<br/>to turn the LED on.|[<img src="images/03-LED-button-01_bb.png" alt="03-LED-button-01" title="03-LED-button-01" height="50" align="center">](images/03-LED-button-01_bb.png)|[-->](images/03-LED-button-01_schem.png)|23,24|
 |Number|File Name|Description|Wiring|Circuit|GPIO|
 
 
-
-- [02-hello-button-01.py](./02-hello-button-01.py)
-[--> wiring <img src="images/02-hello-button-01_bb.png" alt="02-hello-button-01" title="02-hello-button-01" height="50" align="center">](images/02-hello-button-01_bb.png)
-[--> circuit](images/02-hello-button-01_schem.png)
-
-Push the button to say hello.
-
-- [03-LED-button-01.py](./03-LED-button-01.py)
-[--> wiring <img src="images/03-LED-button-01_bb.png" alt="03-LED-button-01" title="03-LED-button-01" height="50" align="center">](images/03-LED-button-01_bb.png)
-[--> circuit](images/03-LED-button-01_schem.png)
-
-Push the button to turn the LED on.
 
 - [04-PWM-LED-01.py](./04-PWM-LED-01.py)
 [--> wiring <img src="images/04-PWM-LED-01_bb.png" alt="04-PWM-LED-01" title="04-PWM-LED-01" height="50" align="center">](images/04-PWM-LED-01_bb.png)
