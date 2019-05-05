@@ -34,4 +34,7 @@ $ cd Python\ Projects
 $ git clone paste-the-URL-from-the-green-button-of-Clone-or-download
 $ cd gpiozero-recipes
 $ python3 01-LED-blinky.py
+
+Change the pin factory from its default RPi.GPIO to pigpio in order to get more precise measurement with supersonic distance sensor.
+$ GPIOZERO_PIN_FACTORY=pigpio python3 07-distance-sensor-01.py
 ```
