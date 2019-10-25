@@ -14,7 +14,7 @@ sensor = DistanceSensor(echo=24, trigger=23, max_distance=MAX_DISTANCE)
 print('\n\nDisplay distance in mm on the 4-digit 7-segment LED.')
 print('Be sure to supply 3.3V (not 5V) to the LED module.')
 print('OK to supply 5V to the Supersonic Distance Sensor but you need dividing resistors to receive Echo.')
-print('GPIO connection:\n\tSupersonic Distance Senser (Trigger=23, Echo=24)\n\tLED Module (CLK=20, DIO=21)\n\n\n')
+print('GPIO connection:\n\tSupersonic Distance Sensor (Trigger=23, Echo=24)\n\tLED Module (CLK=20, DIO=21)\n\n\n')
 
 
 while True:
